@@ -1,4 +1,5 @@
 # hello-world
-Getting to know github
+Getting to know github.
+Made as an exercise.
 
-Modified on local
+This is to try out some stuff.
